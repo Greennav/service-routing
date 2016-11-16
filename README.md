@@ -9,7 +9,7 @@ To read more about the project, please read the official [design plan](https://g
 
 ## Running the server
 
-1. Make sure you have Go installed
+1. Make sure you have Go installed `sudo apt-get install golang`
 2. Either run with `go run mockup.go` or with 
 ```bash
     go build mockup.go
